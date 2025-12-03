@@ -23,14 +23,15 @@ Star Count:⭐️⭐(2/24)
     - Difficulty Score: 4/10
 
 ## Day 2
-  ### Puzzle 1: Not Completed (❌)
+  ### Puzzle 1: Completed (⭐️)
     - Overview:
-        TBD
-    - Difficulty Score: TBD
-  ### Puzzle 2: Not Completed (❌)
+        Take a file of ranges, which are comma separated and have a range of numbers. 
+        Take the sum of all the invalid ID's in the ranges. 
+    - Difficulty Score: 4/10
+  ### Puzzle 2: Completed (⭐️)
     - Overview:
-        TBD
-    - Difficulty Score: TBD
+        From the previous puzzle take the sum of all the invalid ID's but only if the invalid part appears at least twice. 
+    - Difficulty Score: 5/10
 
 ## Day 3
   ### Puzzle 1: Not Completed (❌)
